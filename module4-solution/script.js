@@ -35,7 +35,7 @@ WARNING!!! WARNING!!!
 // (Note, Step 2 will be done in the SpeakHello.js file.)
 
 
-function name1 () {
+(function () {
 
 var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
@@ -70,6 +70,4 @@ for (var i = 0; i < names.length; i++) {
   }
 }
 
-}
-
-name1 ();
+})();
