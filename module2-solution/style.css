@@ -21,7 +21,7 @@ section.contentBox{
   margin:2%;
   padding: 2%;
   margin-bottom: 4%;
-  border: 5px black;
+  border: 5px solid black;
   height: 300px;
   overflow: hidden;
 }
@@ -34,7 +34,7 @@ div.hd{
   padding-left: 5%;
   padding-right: 5%;
   margin: 0;
-  border: 2px black;
+  border: 2px solid black;
   font-size: 175%;
   height: 50px;
   overflow-wrap: 
